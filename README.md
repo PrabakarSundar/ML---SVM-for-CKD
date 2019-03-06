@@ -16,6 +16,6 @@ In out case we have a kaggle dataset of chronic kidney disease(both normal and a
 ##### Necessary Packages - Windows
   scikit-learn - ```pip install sklearn```
   
-  Pandas       - ```pip install pandas```
+  pandas       - ```pip install pandas```
   
   matplotlib   - ```pip install matplotlib```
