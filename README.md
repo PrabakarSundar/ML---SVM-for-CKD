@@ -1,4 +1,4 @@
-# ML SVM for CKD
+# ML SVM for CKD in Python
 Simple Machine Learning SVM algorithm for Chronic Kidney Disease detection.
 
 
